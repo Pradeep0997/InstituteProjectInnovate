@@ -1,4 +1,4 @@
-🎓 ## Institute Activity Management System
+# 🎓 Institute Activity Management System
 
 A full-stack web application designed to simplify the management of academic & extracurricular activities in institutes. This system provides role-based access control for students, faculty, and administrators — ensuring a seamless, secure, and user-friendly experience.
 
@@ -6,7 +6,7 @@ A full-stack web application designed to simplify the management of academic & e
 
 ---
 
-✨ Features
+# ✨ Features
 
 ✅ Role-Based Access Control – Separate dashboards for students, faculty, and admin.
 
@@ -28,7 +28,7 @@ A full-stack web application designed to simplify the management of academic & e
 
 ---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 
 Frontend: React.js, Tailwind CSS
@@ -53,7 +53,7 @@ Admin – Full access to oversee and control the system.
 
 ---
 
-📸  Screenshots (Some pages of the project)
+# 📸  Screenshots (Some pages of the project)
 
 <img width="1347" height="631" alt="institute1" src="https://github.com/user-attachments/assets/b93af6c2-f59b-4a5f-8d0c-2ef76318e1ac" />
 
@@ -70,7 +70,7 @@ Admin – Full access to oversee and control the system.
 
 
 ---
-🚀  Getting Started
+# 🚀  Getting Started
 
 ```
 Clone the repo
@@ -103,7 +103,7 @@ cd frontend && npm start
 ---
 
 
-🌟  Future Enhancements
+# 🌟  Future Enhancements
 
 🔹 Activity analytics dashboard for admins
 
@@ -115,14 +115,14 @@ cd frontend && npm start
 
 
 ---
-🤝  Contributing
+# 🤝  Contributing
 
 Contributions are always welcome! Feel free to fork the repo and submit a PR.
 
 
 ---
 
-📬  Contact
+# 📬  Contact
 
 👤 Settipalle Pradeep Reddy
 
