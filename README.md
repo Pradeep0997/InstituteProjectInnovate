@@ -1,4 +1,4 @@
-🎓 Institute Activity Management System
+🎓 # Institute Activity Management System
 
 A full-stack web application designed to simplify the management of academic & extracurricular activities in institutes. This system provides role-based access control for students, faculty, and administrators — ensuring a seamless, secure, and user-friendly experience.
 
