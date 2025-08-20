@@ -1,4 +1,4 @@
-🎓 # Institute Activity Management System
+🎓 Institute Activity Management System
 
 A full-stack web application designed to simplify the management of academic & extracurricular activities in institutes. This system provides role-based access control for students, faculty, and administrators — ensuring a seamless, secure, and user-friendly experience.
 
@@ -6,18 +6,29 @@ A full-stack web application designed to simplify the management of academic & e
 
 ---
 
-✨ # Features
+✨ Features
 
 ✅ Role-Based Access Control – Separate dashboards for students, faculty, and admin.
+
+
 ✅ Activity Management – Add, update, and track academic & extracurricular activities.
+
+
 ✅ Real-Time Alerts – Stay updated with instant notifications.
+
+
 ✅ Responsive UI – Works smoothly on desktop & mobile.
+
+
 ✅ Secure Authentication – User login with JWT-based session handling.
+
+
+
 ✅ Scalable Backend – RESTful APIs integrated with MongoDB for smooth data flow.
 
 ---
 
-🛠️ # Tech Stack
+🛠️ Tech Stack
 
 
 Frontend: React.js, Tailwind CSS
@@ -32,7 +43,7 @@ Deployment: Vercel (Frontend), Render (Backend)
 
 ---
 
-👩‍💻 # Users & Roles
+👩‍💻  Users & Roles
 
 Student – View and register for activities.
 
@@ -42,7 +53,7 @@ Admin – Full access to oversee and control the system.
 
 ---
 
-📸 # Screenshots (Some pages of the project)
+📸  Screenshots (Some pages of the project)
 
 <img width="1347" height="631" alt="institute1" src="https://github.com/user-attachments/assets/b93af6c2-f59b-4a5f-8d0c-2ef76318e1ac" />
 
@@ -52,14 +63,14 @@ Admin – Full access to oversee and control the system.
 
 <img width="1347" height="631" alt="Institute14" src="https://github.com/user-attachments/assets/e3971c9b-7136-4367-bac7-dc130d7f4ecb" />
 
-<img width="1347" height="631" alt="Institute14" src="https://github.com/user-attachments/assets/55104f87-8d5c-42c8-a8fa-74efcb34d6ba" />
+
 
 <img width="1347" height="631" alt="Institute31" src="https://github.com/user-attachments/assets/2636fde6-afb4-4d7a-9fa8-d38b60b9c8c1" />
 
 
 
 ---
-🚀 # Getting Started
+🚀  Getting Started
 
 ```
 Clone the repo
@@ -92,22 +103,26 @@ cd frontend && npm start
 ---
 
 
-🌟 # Future Enhancements
+🌟  Future Enhancements
 
 🔹 Activity analytics dashboard for admins
+
+
 🔹 Email/SMS notifications for important updates
+
+
 🔹 AI-powered recommendation system for activities
 
 
 ---
-🤝 # Contributing
+🤝  Contributing
 
 Contributions are always welcome! Feel free to fork the repo and submit a PR.
 
 
 ---
 
-📬 # Contact
+📬  Contact
 
 👤 Settipalle Pradeep Reddy
 
